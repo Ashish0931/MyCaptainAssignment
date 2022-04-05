@@ -1,5 +1,3 @@
-global ctr
-ctr=0
 import csv
 def printer(name,Class,roll_no,dob,admission_no): #function to print the values given by the user
     print("---------------------------------------")
